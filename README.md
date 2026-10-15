@@ -11,11 +11,12 @@ Este projeto consistem em uma simulçao de monitoramento do nível de água de u
 O programa apresenta cinco níveis de água, cada um com uma
 mensagem e uma cor correspondente à situação do reservatório.
 
-![Execução do programa](imagens/execucaoprojeto.png.png)
+![Execução do programa](imagens/execucaoprojeto.png)
 
 ## 🛠️ Tecnologias utilizadas
 
 🐍 Python 3
+
 📚 Colorama
 
 ## ▶️ Como executar
